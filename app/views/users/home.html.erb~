@@ -1,0 +1,1 @@
+you have <%=@user.get_unread_message_count%> unread messages

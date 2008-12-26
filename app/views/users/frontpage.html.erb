@@ -1,0 +1,19 @@
+<h1>Log In</h1>
+
+<% form_tag(login_url) do |f| %>
+  <p>
+    <b>Name</b><br />
+    <%= text_field_tag :name %>
+  </p>
+
+  <p>
+    <b>Password</b><br />
+    <%= text_field_tag :password %>
+  </p>
+
+  <p>
+    <%= submit_tag "login" %>
+  </p>
+<% end %>
+
+<%= link_to 'Register', new_user_path %>
