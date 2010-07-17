@@ -1,2 +1,0 @@
-<%= message.content%> <%=link_to_remote 'reply', :controller=>'users',:action=>'reply_message',:id=>message.id%>
-<p>from <%=@user.name%></p>

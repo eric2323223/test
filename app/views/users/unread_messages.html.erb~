@@ -1,4 +1,0 @@
-<h1>Messages</h1>
-<%=@user.name%>
-<%=@user.get_unread_messages.length%>
-<%=render :partial=>'message', :collection=>@user.get_unread_messages%>
