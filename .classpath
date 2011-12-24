@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry sourcepath="JRE_SRC" kind="var" path="JRE_LIB"/>
+	<classpathentry sourcepath="JRE_LIB_GRAPHICS" kind="var" path="JRE_LIB_GRAPHICS"/>
+	<classpathentry sourcepath="JRE_LIB_SERVER" kind="var" path="JRE_LIB_SERVER"/>
+	<classpathentry sourcepath="JRE_LIB_XML" kind="var" path="JRE_LIB_XML"/>
+	<classpathentry sourcepath="RATIONAL_FT_SRC" kind="var" path="RATIONAL_FT_LIB"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry sourcepath="RATIONAL_FT_DATAPOOL_LIB" kind="var" path="RATIONAL_FT_DATAPOOL_LIB"/>
+	<classpathentry kind="lib" path="D:/eclipse/plugins/org.junit4_4.3.1/junit.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
